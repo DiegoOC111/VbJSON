@@ -1,0 +1,15 @@
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CopyComplete
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\diego\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
